@@ -1,0 +1,13 @@
+export { default as BarProgress } from "./BarProgress/BarProgress.jsx";
+export { default as ButtonTheme } from "./ButtonTheme/ButtonTheme.jsx";
+export { default as FormTask } from "./FormTask/FormTask.jsx";
+export { default as TextArea } from "./TextArea/TextArea.jsx";
+export { default as Subtarea } from "./Subtarea/Subtarea.jsx";
+export { default as Category } from "./Category/Category.jsx";
+export { default as Tooltip } from './Tooltip/Tooltip.jsx';
+export { default as Header } from "./Header/Header.jsx";
+export { default as Button } from "./Button/Button.jsx";
+export { default as Input } from "./Input/Input.jsx";
+export { default as Modal } from "./Modal/Modal.jsx";
+export { default as Form } from "./Form/Form.jsx";
+export { default as Task } from "./Task/Task.jsx";
